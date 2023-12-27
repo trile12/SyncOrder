@@ -1,0 +1,8 @@
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\bin\Debug\AutoUpdateConsole.exe.config
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\bin\Debug\AutoUpdateConsole.exe
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\bin\Debug\AutoUpdateConsole.pdb
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\obj\Debug\AutoUpdateConsole.csproj.AssemblyReference.cache
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\obj\Debug\AutoUpdateConsole.csproj.SuggestedBindingRedirects.cache
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\obj\Debug\AutoUpdateConsole.csproj.CoreCompileInputs.cache
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\obj\Debug\AutoUpdateConsole.exe
+D:\ToolSyncOrder\SyncOrder\AutoUpdateConsole\obj\Debug\AutoUpdateConsole.pdb

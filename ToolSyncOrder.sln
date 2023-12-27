@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolSyncOrder", "ToolSyncOrder\ToolSyncOrder.csproj", "{2EB591AC-6191-4BF2-A8C6-BA0458C685B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateConsole", "AutoUpdateConsole\AutoUpdateConsole.csproj", "{AA7C307B-2A0E-4AFD-B018-9CEF1E95C4BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2EB591AC-6191-4BF2-A8C6-BA0458C685B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB591AC-6191-4BF2-A8C6-BA0458C685B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB591AC-6191-4BF2-A8C6-BA0458C685B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7C307B-2A0E-4AFD-B018-9CEF1E95C4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7C307B-2A0E-4AFD-B018-9CEF1E95C4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7C307B-2A0E-4AFD-B018-9CEF1E95C4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7C307B-2A0E-4AFD-B018-9CEF1E95C4BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

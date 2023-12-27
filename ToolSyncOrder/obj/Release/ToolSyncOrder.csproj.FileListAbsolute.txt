@@ -38,3 +38,43 @@ C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSync
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.CopyComplete
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.exe
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.pdb
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\ToolSyncOrder.exe.config
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\ToolSyncOrder.exe
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\ToolSyncOrder.pdb
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\Newtonsoft.Json.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\RestSharp.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Buffers.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Memory.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Numerics.Vectors.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Text.Encodings.Web.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Text.Json.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.ValueTuple.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\Newtonsoft.Json.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\RestSharp.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Buffers.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Memory.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Numerics.Vectors.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Text.Encodings.Web.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Text.Json.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Release\System.ValueTuple.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.AssemblyReference.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.SuggestedBindingRedirects.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\MainWindow.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\App.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder_MarkupCompile.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder_MarkupCompile.lref
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\MainWindow.baml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.g.resources
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.Properties.Resources.resources
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.GenerateResource.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.CoreCompileInputs.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.csproj.CopyComplete
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.exe
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Release\ToolSyncOrder.pdb

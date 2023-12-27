@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -197,6 +199,17 @@ namespace ToolSyncOrder
             filteredOrders?.Clear();
             logListView.ItemsSource = null;
             orderIdFilterTextBox.Text = "";
+        }
+
+        private async void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            await UpdateManager.GetVersionInfo();
+            var currentVersion = UpdateManager.GetCurrentVersion();
+
+            if (UpdateManager.IsUpdateAvailable(currentVersion))
+            {               
+                UpdateManager.PromptForUpdate();
+            }
         }
     }
 

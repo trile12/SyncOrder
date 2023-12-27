@@ -117,3 +117,43 @@ C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSync
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CopyComplete
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.exe
 C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.pdb
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe.config
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.pdb
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\RestSharp.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Memory.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.dll
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\RestSharp.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Memory.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.xml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.AssemblyReference.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.SuggestedBindingRedirects.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\MainWindow.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\App.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.lref
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\MainWindow.baml
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.g.resources
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.Properties.Resources.resources
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.GenerateResource.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CoreCompileInputs.cache
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CopyComplete
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.exe
+D:\ToolSyncOrder\SyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.pdb
