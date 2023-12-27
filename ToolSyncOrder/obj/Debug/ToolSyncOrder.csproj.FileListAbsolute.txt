@@ -1,0 +1,119 @@
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.AssemblyReference.cache
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.SuggestedBindingRedirects.cache
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.g.cs
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\App.g.cs
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.cache
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.lref
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe.config
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.pdb
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.baml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.g.resources
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.Properties.Resources.resources
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.GenerateResource.cache
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CoreCompileInputs.cache
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CopyComplete
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.exe
+D:\Tool\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.pdb
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.dll
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Tool\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe.config
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.pdb
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.AssemblyReference.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\App.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.lref
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.baml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.g.resources
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.Properties.Resources.resources
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.GenerateResource.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CoreCompileInputs.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CopyComplete
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.exe
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.pdb
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe.config
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.exe
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\ToolSyncOrder.pdb
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.dll
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\RestSharp.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Buffers.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Memory.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Text.Json.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\bin\Debug\System.ValueTuple.xml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.AssemblyReference.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\App.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder_MarkupCompile.lref
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\MainWindow.baml
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.g.resources
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.Properties.Resources.resources
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.GenerateResource.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CoreCompileInputs.cache
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.csproj.CopyComplete
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.exe
+C:\Users\Tri.Le\Downloads\Telegram Desktop\ToolSyncOrder\Tool_SyncOrder\ToolSyncOrder\ToolSyncOrder\obj\Debug\ToolSyncOrder.pdb
